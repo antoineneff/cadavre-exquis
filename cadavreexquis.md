@@ -24,7 +24,9 @@ Il était fois un petit appercio
 Le petit appercio avait un rêve: devenir webmaster
 Il codait en html mais il n'arrivait à choisir un framework
 Alors il a utilisé dreamweaver
+Puis il a préféré faire son site sur powerpoint
 
 ## Louis
 Il etait une fois un lapin
 Qui était tout rose
+Et qui aimait alice au pays des merveilles
