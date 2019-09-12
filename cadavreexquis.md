@@ -11,9 +11,6 @@ Savez-vous combien font 9x9 ? Neff. Et oui, il est l'inventeur du nombre 9.
 ## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
 se disait que le film du dimanche soir
-ca vallait pas
-serait l'occasion de fuguer
-loin, très loin
 
 ## Vincent
 Il était fois un petit appercio
