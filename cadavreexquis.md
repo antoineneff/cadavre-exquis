@@ -23,6 +23,9 @@ se disait que le film du dimanche soir
 Il était fois un petit appercio
 Le petit appercio avait un rêve: devenir webmaster
 Il codait en html mais il n'arrivait à choisir un framework
+Du coup il a décidé de coder en assembleur
 
 ## Louis
 Il etait une fois un lapin
+Et un chasseur qui n'avait pas envi de s'entretuer
+
