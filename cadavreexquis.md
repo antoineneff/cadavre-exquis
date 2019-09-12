@@ -15,10 +15,12 @@ c'etait le temps des fleurs où
 les abeilles butinent
 enzo partais en province
 en buvant un martini chocolat whisky fraise (il restait que ca en meme temps)
+Il chantait une chanson qui commencait par
 
 ## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
 se disait que le film du dimanche soir
+ca vallait pas
 
 ## Vincent
 Il était fois un petit appercio
