@@ -7,6 +7,7 @@ Il était une fois un petit Lucas, un peu sauvage, mais sympa. Le problème c'es
 Il était une fois un développeur
 qui ne savait pas utiliser git
 il s'appelait Antoine, antoine NEFF
+et travaillait chez Uptoo
 
 ## Alexis
 c'etait le temps des fleurs où
