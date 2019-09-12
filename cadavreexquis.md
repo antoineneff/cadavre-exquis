@@ -41,9 +41,3 @@ Du coup il a décidé de coder en assembleur
 Alors il a utilisé dreamweaver
 Pas si facile la vie de webmestre !
 
-## Louis
-Il etait une fois un lapin
-Et un chasseur qui n'avait pas envi de s'entretuer
-Qui était tout rose
-Dans une branche d'arbre
-avec un nid d'oiseau
