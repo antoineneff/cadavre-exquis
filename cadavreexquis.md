@@ -1,5 +1,12 @@
 # Cadavre exquis
 
+## Lucas
+Il était une fois Enzo, petit Portugais de 12 ans
+se disait que le film du dimanche soir
+ca vallait pas
+serait l'occasion de fuguer
+loin, très loin
+
 ## Vincent
 Il était fois un petit appercio
 Le petit appercio avait un rêve: devenir webmaster
