@@ -1,7 +1,9 @@
 # Cadavre exquis
 
 ## Enzo
-Il était une fois un petit Lucas, un peu sauvage, mais sympa. Le problème c'est que Lucas, il est plus la.
+Il était une fois un petit Lucas, un peu sauvage, mais sympa
+Le problème c'est que Lucas, il est plus la.
+Maintenant il travaill depuis chez lui
 
 ## Antoine
 Il était une fois un développeur
@@ -21,3 +23,8 @@ se disait que le film du dimanche soir
 ## Vincent
 Il était fois un petit appercio
 Le petit appercio avait un rêve: devenir webmaster
+Il codait en html mais il n'arrivait à choisir un framework
+
+## Louis
+Il etait une fois un lapin
+Qui était tout rose
