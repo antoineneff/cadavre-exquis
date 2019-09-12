@@ -2,13 +2,14 @@
 
 ## Enzo
 Il était une fois un petit Lucas, un peu sauvage, mais sympa
+SUPER CHERRY PINK !
 
 ## Antoine
 Il était une fois un développeur
 qui ne connaissait pas git
 
 ## Alexis
-
+Youhouuuuuuu
 ## Alexis
 c'etait le temps des fleurs où
 les abeilles butinent
