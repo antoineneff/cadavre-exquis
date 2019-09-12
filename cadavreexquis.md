@@ -3,12 +3,6 @@
 ## Enzo
 
 ## Antoine
-Il était une fois un développeur
-qui ne savait pas utiliser git
-il s'appelait Antoine, antoine NEFF
-et travaillait chez Uptoo
-depuis maintenant 3 ans
-Savez-vous combien font 9x9 ? Neff. Et oui, il est l'inventeur du nombre 9.
 
 ## Alexis
 c'etait le temps des fleurs où
@@ -32,3 +26,5 @@ Il codait en html mais il n'arrivait à choisir un framework
 Du coup il a décidé de coder en assembleur
 Alors il a utilisé dreamweaver
 Pas si facile la vie de webmestre !
+
+## Louis modif
