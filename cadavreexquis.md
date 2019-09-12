@@ -8,11 +8,13 @@ Il était une fois un développeur
 qui ne savait pas utiliser git
 il s'appelait Antoine, antoine NEFF
 et travaillait chez Uptoo
+depuis maintenant 3 ans
 
 ## Alexis
 c'etait le temps des fleurs où
 les abeilles butinent
 enzo partais en province
+pour passer des vacances avec son quad
 
 ## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
