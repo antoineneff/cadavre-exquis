@@ -2,7 +2,7 @@
 
 ## Enzo
 Il était une fois un petit Lucas, un peu sauvage, mais sympa
-SUPER CHERRY PINK !
+SUPER CHERRY PICK !
 
 ## Antoine
 Il était une fois un développeur
