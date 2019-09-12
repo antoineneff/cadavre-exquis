@@ -1,12 +1,16 @@
 # Cadavre exquis
 
+## Enzo
+
 ## Antoine
-Il était une fois un développeur
-qui ne savait pas utiliser git
-il s'appelait Antoine, antoine NEFF
-et travaillait chez Uptoo
-depuis maintenant 3 ans
-Savez-vous combien font 9x9 ? Neff. Et oui, il est l'inventeur du nombre 9.
+
+## Alexis
+c'etait le temps des fleurs où
+les abeilles butinent
+enzo partais en province
+en buvant un martini chocolat whisky fraise (il restait que ca en meme temps)
+pour passer des vacances avec son quad
+Il chantait une chanson qui commencait par
 
 ## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
@@ -23,3 +27,8 @@ Du coup il a décidé de coder en assembleur
 Alors il a utilisé dreamweaver
 Pas si facile la vie de webmestre !
 
+## Louis
+Il etait une fois un lapin
+Et un chasseur qui n'avait pas envi de s'entretuer
+Qui était tout rose
+Dans une branche
