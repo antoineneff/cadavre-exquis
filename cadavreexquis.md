@@ -4,6 +4,7 @@
 Il était une fois un petit Lucas, un peu sauvage, mais sympa
 Le problème c'est que Lucas, il est plus la.
 Maintenant il travaill depuis chez lui
+Et il mangedu kiri?
 
 ## Antoine
 Il était une fois un développeur
@@ -24,6 +25,7 @@ Il était fois un petit appercio
 Le petit appercio avait un rêve: devenir webmaster
 Il codait en html mais il n'arrivait à choisir un framework
 Du coup il a décidé de coder en assembleur
+Alors il a utilisé dreamweaver
 
 ## Louis
 Il etait une fois un lapin
