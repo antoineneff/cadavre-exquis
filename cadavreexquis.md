@@ -9,12 +9,6 @@ Cependant, il a une grande qualité, c'est sa puissance vocale, je pense qu'il a
 Et il mangedu kiri?
 
 ## Antoine
-Il était une fois un développeur
-qui ne savait pas utiliser git
-il s'appelait Antoine, antoine NEFF
-et travaillait chez Uptoo
-depuis maintenant 3 ans
-Savez-vous combien font 9x9 ? Neff. Et oui, il est l'inventeur du nombre 9.
 
 ## Alexis
 c'etait le temps des fleurs où
@@ -43,4 +37,4 @@ Pas si facile la vie de webmestre !
 Il etait une fois un lapin
 Et un chasseur qui n'avait pas envi de s'entretuer
 Qui était tout rose
-Dans une branche 
+Dans une branche
