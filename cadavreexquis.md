@@ -1,10 +1,10 @@
-# Cadavre exquis
+# Cadavre exquis de dev
 
 ## Enzo
 Il était une fois un petit Lucas, un peu sauvage, mais sympa
 SUPER CHERRY PINK !
 
-## Anthony
+## Antoine
 Il était une fois un développeur
 qui ne connaissait pas git
 
@@ -23,13 +23,8 @@ Il chantait une chanson qui commencait par
 Il était une fois Enzo, petit Portugais de 12 ans
 
 ## Vincent
-Il était fois un petit appercio
-Le petit appercio avait un rêve: devenir webmaster
-Il codait en html mais il n'arrivait à choisir un framework
-Du coup il a décidé de coder en assembleur
-Alors il a utilisé dreamweaver
-Pas si facile la vie de webmestre !
-Coucou
+
+Ah que coucou
 
 ## Louis
 adding stuff
