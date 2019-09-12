@@ -2,18 +2,24 @@
 
 ## Enzo
 Il était une fois un petit Lucas, un peu sauvage, mais sympa
-Il travaillait depuis chez lui
+Le problème c'est que Lucas, il est plus la.
+Maintenant il travaill depuis chez lui
 
 ## Antoine
 Il était une fois un développeur
+qui ne savait pas utiliser git
+il s'appelait Antoine, antoine NEFF
 
 ## Alexis
 c'etait le temps des fleurs où
-## Lucas
+les abeilles butinent
+enzo partais en province
 
+## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
+se disait que le film du dimanche soir
 
 ## Vincent
-
 Il était fois un petit appercio
-Il codait en php mais il n'arrivait à choisir un framework
+Le petit appercio avait un rêve: devenir webmaster
+Il codait en html mais il n'arrivait à choisir un framework
