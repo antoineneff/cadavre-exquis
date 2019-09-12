@@ -5,6 +5,7 @@ Il était une fois un petit Lucas, un peu sauvage, mais sympa
 
 ## Antoine
 Il était une fois un développeur
+qui ne connaissait pas git
 
 ## Alexis
 Youhouuuuuuu
@@ -17,5 +18,7 @@ pour passer des vacances avec son quad
 Il chantait une chanson qui commencait par
 
 ## Lucas
+
+Il était une fois Enzo, petit Portugais de 12 ans
 
 ## Vincent
