@@ -6,6 +6,7 @@ SUPER CHERRY PINK !
 
 ## Antoine
 Il était une fois un développeur
+qui ne connaissait pas git
 
 ## Alexis
 Youhouuuuuuu
