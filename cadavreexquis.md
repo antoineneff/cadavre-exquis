@@ -16,13 +16,7 @@ et travaillait chez Uptoo
 depuis maintenant 3 ans
 Savez-vous combien font 9x9 ? Neff. Et oui, il est l'inventeur du nombre 9.
 
-## Alexis
-c'etait le temps des fleurs où
-les abeilles butinent
-enzo partais en province
-en buvant un martini chocolat whisky fraise (il restait que ca en meme temps)
-pour passer des vacances avec son quad
-Il chantait une chanson qui commencait par
+
 
 ## Lucas
 Il était une fois Enzo, petit Portugais de 12 ans
